@@ -1384,3 +1384,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.09.02-03.35.34:716][203]LogHttp: Warning: 00000BCE78528200: libcurl info message cache 7 (Closing connection 1)
 [2024.09.02-03.35.34:716][203]LogHttp: Warning: 00000BCE78528200: libcurl info message cache 8 (TLSv1.3 (OUT), TLS alert, close notify (256):)
 [2024.09.02-03.35.34:716][203]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD3C4A93E-44D8-67B7-E534-A29A1BC08E38%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=3cd745874b03cc259a9a1794fe5d7580%7C21cf6384e0c149cf8a2d3e2f0737c301%7Cd98dd262-438c-485f-a51b-3096ded8fc5a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.09.02-03.50.45:092][153]LogSlate: Window 'Resource Usage' being destroyed
+[2024.09.02-03.50.45:096][153]LogSlate: Window 'Resource Usage' being destroyed
+[2024.09.02-03.55.28:172][778]LogAutomationController: Ignoring very large delta of 4.34 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.09.02-03.55.57:569][ 42]LogSlate: Window 'Inicio de sesión del control del código fuente' being destroyed
